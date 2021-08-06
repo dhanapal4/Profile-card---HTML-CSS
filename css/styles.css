@@ -1,0 +1,88 @@
+body{
+  background:#19a2ae url(https://grtrspw.github.io/3rdchallenge/images/bg-pattern-bottom.svg);
+  /* background-color: #19a2a;*/
+background-position: -49.6875rem -36rem, 7.5625rem 23.75rem;
+  /* position: relative; */
+    text-align: center;
+    font-family: 'Georama', sans-serif;
+}
+
+h3{
+  margin: 5px auto 5px;
+}
+
+h5{
+  margin: 0 1rem;
+}
+
+
+.card{
+  margin: 20px auto;
+  background-color: white;
+  width: 30%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-radius: 10px;
+
+}
+
+.div-bkg{
+  color: #19a2ae;
+  /* background:#19a2ae url(https://grtrspw.github.io/3rdchallenge/images/bg-pattern-card.svg); */
+}
+
+
+.bk-cls{
+  display: block;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.pic-cls{
+  display: block;
+  width: 30%;
+  margin: -30px auto 0 auto;
+
+}
+
+
+.grey-cls{
+  color: grey;
+}
+
+h3{
+  display: inline;
+}
+
+.counts-div{
+  display: table;
+}
+
+li{
+  list-style-type: none;
+  display: list-item;
+
+    text-align: -webkit-match-parent;
+    margin: 0 10px;
+    font-weight: bolder;
+}
+p{
+  color: grey;
+  font-weight: lighter;
+}
+ul{
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+    margin-block-start: 1.6875rem;
+    line-height: 0.65625rem;
+}
+.counts-div{
+
+  align-items: center;
+  justify-content: space-around;
+}
